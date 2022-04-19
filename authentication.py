@@ -1,1 +1,1 @@
-def details(name,id)
+def details(name,id,email)
